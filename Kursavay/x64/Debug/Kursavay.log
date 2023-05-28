@@ -1,0 +1,8 @@
+﻿  Kursavay.cpp
+C:\Users\Maibenben\Desktop\Kursavay\Kursavay.cpp(10,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Maibenben\Desktop\Kursavay\Kursavay.cpp(79,53): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Maibenben\Desktop\Kursavay\Kursavay.cpp(79,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Maibenben\Desktop\Kursavay\Kursavay.cpp(81,53): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+C:\Users\Maibenben\Desktop\Kursavay\Kursavay.cpp(93,52): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Maibenben\Desktop\Kursavay\Kursavay.cpp(93,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Kursavay.vcxproj -> C:\Users\Maibenben\Desktop\Kursavay\x64\Debug\Kursavay.exe
